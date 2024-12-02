@@ -1,0 +1,24 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #854222
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+.image-container {
+    text-align: center;
+}
+
+.image-container img {
+    display: inline-block;
+}
+
+
+body {
+background-color: #A0D4CA;
+}
